@@ -8,6 +8,7 @@ public class LoginPage {
 		int b=20;
 		System.out.println(a);
 		System.out.println(b);
+		System.out.println("Login page class modified");
 
 
 	}
