@@ -1,3 +1,5 @@
+package Pages;
+
 public class CartPage {
 
 	void cart() {
