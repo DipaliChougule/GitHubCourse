@@ -22,4 +22,11 @@ public class MergePage {
 
 	}
 
+	void master()
+	{
+				System.out.println("Hi master.");
+	}
+	int h=10;
+
+
 }
