@@ -16,6 +16,7 @@ public class MergePage {
 		int age=20;
 		int salary=10000;
 		
+		System.out.println("Heyy...");
 		
 
 	}
