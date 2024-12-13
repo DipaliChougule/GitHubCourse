@@ -10,7 +10,7 @@ public class MergePage {
 		System.out.println(x-y);
 		System.out.println("Code added after taking pull");
 
-		int sal=9000;
+		int sal=3000;
 
 		String name="dd";
 		int age=20;
