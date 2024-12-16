@@ -27,6 +27,7 @@ public class MergePage {
 				System.out.println("Hi master.");
 	}
 	int h=10;
+	int d=20;
 
 
 }
