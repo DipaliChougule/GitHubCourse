@@ -28,6 +28,8 @@ public class MergePage {
 	}
 	int h=10;
 	int d=20;
+	int c3=30;
+	
 
 
 }
